@@ -37,3 +37,4 @@ masked_text, pii_dict = masker.mask_pii(input_text)
 print(masked_text)
 print(pii_dict)
 ```
+For a complete usage example, refer to build_RAG_with_pii_and_milvus.ipynb.
