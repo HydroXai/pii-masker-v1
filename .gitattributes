@@ -1,1 +1,2 @@
 pii-masker/output_model/deberta3base_1024 filter=lfs diff=lfs merge=lfs -text
+pii-masker/output_model/deberta3base_1024/model.safetensors filter=lfs diff=lfs merge=lfs -text
