@@ -18,7 +18,7 @@ PII Masker is a Python tool designed to identify and mask Personally Identifiabl
    ```
 
 3. Download the pre-trained model weights:
-   - Go to the Hugging Face model repository: [xuyingliKepler/model_weight](https://huggingface.co/xuyingliKepler/model_weight)
+   - Go to the Hugging Face model repository: [hydroxai/pii_model_weight](https://huggingface.co/hydroxai/pii_model_weight)
    - Download the model weights
    - Place the downloaded files in the following directory:
      ```
