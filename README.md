@@ -62,7 +62,3 @@ print(pii_dict)
 This will output the masked text and a dictionary containing the identified PII entities.
 
 For a complete usage example, refer to `build_RAG_with_pii_and_milvus.ipynb`.
-
-## Customization
-
-The PII Masker can be customized to detect and mask specific types of PII based on your requirements. This can be done by fine-tuning the model on a dataset that includes the desired PII categories or by adjusting the post-processing rules in the `mask_pii` method.
