@@ -109,6 +109,7 @@ Special thanks to:
 - All our contributors and supporters
 
 ---
+
 <p align="center">
 Made with ❤️ for the privacy-conscious developer community
 </p>
