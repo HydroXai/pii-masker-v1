@@ -46,11 +46,11 @@ from pii_masker import PIIMasker
 masker = PIIMasker()
 
 # Mask PII in your text
-text = "John Doe's SSN is 123-45-6789 and he lives at 1234 Elm St."
+text = "John Doe lives at 1234 Elm St."
 masked_text, pii_dict = masker.mask_pii(text)
 
 print(masked_text)
-# Output: "[NAME]'s SSN is [SSN] and he lives at [ADDRESS]"
+# Output: "[NAME] lives at [ADDRESS]"
 ```
 
 ## 📦 Installation
@@ -68,10 +68,7 @@ pip install -r requirements.txt
 
 3. Download the model:
 ```bash
-# Option 1: Automatic download
-python -m pii_masker.download_model
-
-# Option 2: Manual download
+# Option 1: Manual download
 # Visit: https://huggingface.co/hydroxai/pii_model_weight
 # Place files in: pii-masker/output_model/deberta3base_1024/
 ```
