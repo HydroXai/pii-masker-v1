@@ -87,10 +87,8 @@ PII Masker employs a sophisticated pipeline powered by DeBERTa-v3:
 ## 🛠️ Advanced Usage
 
 Check out our detailed examples:
-- [Basic PII Masking](examples/basic_usage.py)
-- [RAG Integration Example](examples/build_RAG_with_pii_and_milvus.ipynb)
-- [Batch Processing](examples/batch_processing.py)
-
+- [RAG Integration Example](build_RAG_with_pii_and_milvus.ipynb)
+  
 ## 🤝 Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
