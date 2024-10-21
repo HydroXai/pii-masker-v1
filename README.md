@@ -7,6 +7,10 @@
 </h1>
 
 <p align="center">
+    <img src="pii_cover.jpeg" alt="PII Masker Cover" width="600">
+</p>
+
+<p align="center">
 PII Masker is an advanced open-source tool that protects your sensitive data using state-of-the-art AI, powered by DeBERTa-v3
 </p>
 
