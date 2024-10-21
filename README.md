@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <img src="pii_cover.jpeg" alt="PII Masker Cover" width="600">
+    <img src="pii_cover.jpeg" alt="PII Masker Cover" style="width: 100%; max-width: 900px;">
 </p>
 
 <p align="center">
