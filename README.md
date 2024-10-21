@@ -16,11 +16,11 @@ PII Masker is an advanced open-source tool that protects your sensitive data usi
 </p>
 
 <p align="center">
-    <a href="#key-features"><b>Features</b></a> •
-    <a href="#installation"><b>Installation</b></a> •
-    <a href="#quick-start"><b>Quick Start</b></a> •
-    <a href="#how-it-works"><b>How It Works</b></a> •
-    <a href="#contributing"><b>Contributing</b></a>
+    <a href="#✨-key-features"><b>Features</b></a> •
+    <a href="#📦-installation"><b>Installation</b></a> •
+    <a href="#🚀-quick-start"><b>Quick Start</b></a> •
+    <a href="#🔍-how-it-works"><b>How It Works</b></a> •
+    <a href="#🤝-contributing"><b>Contributing</b></a>
 </p>
 
 ## ✨ Key Features
