@@ -110,7 +110,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Special thanks to:
 - [Microsoft](https://github.com/microsoft/DeBERTa) for the DeBERTa model
 - [Hugging Face](https://huggingface.co) for model hosting and transformers library
+- [Zilliz](https://zilliz.com) for their support and Milvus, the vector database powering our solution
 - All our contributors and supporters
+
 
 ---
 
