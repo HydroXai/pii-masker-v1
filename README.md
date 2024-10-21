@@ -18,6 +18,7 @@ PII Masker is an advanced open-source tool that protects your sensitive data usi
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
 <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python: 3.8+"></a>
 <a href="https://milvus.io/"><img src="https://img.shields.io/badge/Milvus-vector--database-blue.svg" alt="Milvus"></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-models-yellow.svg" alt="Hugging Face"></a>
 </p>
 
 <p align="center">
