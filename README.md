@@ -43,22 +43,6 @@ When handling sensitive information, it's crucial to use tools that not only per
 * 📊 **Structured Output**: Get both masked text and structured PII dictionary
 * 🔄 **Easy Integration**: Simple Python API for seamless integration into your workflow
 
-## 🚀 Quick Start
-
-```python
-from pii_masker import PIIMasker
-
-# Initialize the masker
-masker = PIIMasker()
-
-# Mask PII in your text
-text = "John Doe lives at 1234 Elm St."
-masked_text, pii_dict = masker.mask_pii(text)
-
-print(masked_text)
-# Output: "[NAME] lives at [ADDRESS]"
-```
-
 ## 📦 Installation
 
 1. Clone the repository:
@@ -77,6 +61,22 @@ pip install -r requirements.txt
 # Option 1: Manual download
 # Visit: https://huggingface.co/hydroxai/pii_model_weight
 # Place files in: pii-masker/output_model/deberta3base_1024/
+```
+
+## 🚀 Quick Start
+
+```python
+from pii_masker import PIIMasker
+
+# Initialize the masker
+masker = PIIMasker()
+
+# Mask PII in your text
+text = "John Doe lives at 1234 Elm St."
+masked_text, pii_dict = masker.mask_pii(text)
+
+print(masked_text)
+# Output: "[NAME] lives at [ADDRESS]"
 ```
 
 ## 🔍 How It Works
