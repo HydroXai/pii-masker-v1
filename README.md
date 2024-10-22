@@ -22,6 +22,9 @@ PII Masker is an advanced open-source tool that protects your sensitive data usi
     <a href="#-Contributing"><b>Contributing</b></a>
 </p>
 
+
+PII Masker is an advanced open-source tool designed to protect your sensitive data by leveraging cutting-edge AI models. Built on top of DeBERTa-v3, this tool ensures high-precision detection and masking of Personally Identifiable Information (PII), making it a perfect fit for any data-sensitive workflows. Whether you're handling customer data, performing data analysis, or ensuring compliance with privacy regulations, PII Masker provides a robust, scalable solution to keep your information secure.
+
 ## ✨ Key Features
 
 * 🔒 **Comprehensive Protection**: Identifies and masks multiple PII types including names, addresses, phone numbers, and more
