@@ -1,10 +1,3 @@
-<h1 align="center" style="border-bottom: none">
-    <b>
-        PII Masker
-    </b>
-    <br>
-    ⭐️ Your Ultimate Privacy Shield for Text Data ⭐️ <br>
-</h1>
 
 <p align="center">
     <img src="pii_cover.jpeg" alt="PII Masker Cover" style="width: 100%; max-width: 900px;">
