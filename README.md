@@ -92,7 +92,7 @@ PII Masker employs a sophisticated pipeline powered by DeBERTa-v3:
 ## 🛠️ Advanced Usage
 
 Check out our detailed examples:
-- [RAG Integration Example](build_RAG_with_pii_and_milvus.ipynb)
+- [RAG Integration Example](RAG_with_pii_and_milvus.ipynb)
   
 ## 🤝 Contributing
 
