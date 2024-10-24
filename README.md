@@ -65,10 +65,15 @@ pip install -r requirements.txt
 
 ## 🚀 Quick Start
 
-```python
-from pii_masker import PIIMasker
+1. Change to the `pii-masker` directory:
+   ```bash
+   cd pii-masker
 
-# Initialize the masker
+
+```python
+from model import PIIMasker
+
+# Initialize the PIIMasker
 masker = PIIMasker()
 
 # Mask PII in your text
