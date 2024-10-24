@@ -69,20 +69,20 @@ pip install -r requirements.txt
    ```bash
    cd pii-masker
 
-
-```python
-from model import PIIMasker
-
-# Initialize the PIIMasker
-masker = PIIMasker()
-
-# Mask PII in your text
-text = "John Doe lives at 1234 Elm St."
-masked_text, pii_dict = masker.mask_pii(text)
-
-print(masked_text)
-# Output: "[NAME] lives at [ADDRESS]"
-```
+2. Use the following code to get started:
+   ```python
+   from model import PIIMasker
+    
+   # Initialize the PIIMasker
+   masker = PIIMasker()
+    
+   # Mask PII in your text
+   text = "John Doe lives at 1234 Elm St."
+   masked_text, pii_dict = masker.mask_pii(text)
+    
+   print(masked_text)
+   # Output: "[NAME] lives at [ADDRESS]"
+   ```
 
 ## 🔍 How It Works
 
