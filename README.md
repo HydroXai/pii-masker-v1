@@ -97,9 +97,10 @@ PII Masker employs a sophisticated pipeline powered by DeBERTa-v3:
 ## 🆕 Latest Updates
 We are excited to announce a significant addition to the PII Masker project: a new model with a different approach from DeBERTa. Here are the details:
 
-🌟 Model Details: Longformer Base with Bi-LSTM Head
+- 🌟 Model Details: Longformer Base with Bi-LSTM Head
 Backbone: Longformer Base 4096 with a Bi-LSTM Head.
-🔧 Performance Improvement
+
+- 🔧 Performance Improvement
 This new model implementation has resulted in approximately a 4% improvement in performance compared to the previous DeBERTa-v3 model. The combination of Longformer's extended sequence length (4096 tokens) and the Bi-LSTM head enhances the sequential context understanding, making PII detection more accurate and reliable.
 
 ## 🛠️ Advanced Usage
