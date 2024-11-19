@@ -97,11 +97,13 @@ PII Masker employs a sophisticated pipeline powered by DeBERTa-v3:
 ## 🆕 Latest Updates
 We are excited to announce a significant addition to the PII Masker project: a new model with a different approach from DeBERTa. Here are the details:
 
-- 🌟 Model Link: hydroxai/pii_model_longtransfomer_version
-- Model detail: train_pii_longtransformer.ipynb
+- 🌟 Model Link:
+- hydroxai/pii_model_longtransfomer_version
+- Model detail:
+- train_pii_longtransformer.ipynb
 
-- 🔧 Performance Improvement
-This new model implementation has resulted in approximately a 4% improvement in performance compared to the previous DeBERTa-v3 model. The combination of Longformer's extended sequence length (4096 tokens) and the Bi-LSTM head enhances the sequential context understanding, making PII detection more accurate and reliable.
+- 🔧 Performance Improvement:
+- This new model implementation has resulted in approximately a 4% improvement in performance compared to the previous DeBERTa-v3 model. The combination of Longformer's extended sequence length (4096 tokens) and the Bi-LSTM head enhances the sequential context understanding, making PII detection more accurate and reliable.
 
 ## 🛠️ Advanced Usage
 
