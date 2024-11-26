@@ -59,7 +59,7 @@ pip install -r requirements.txt
 3. Download the model:
 ```bash
 # Option 1: Manual download
-# Visit: https://huggingface.co/hydroxai/pii_model_weight
+# Visit: https://huggingface.co/collections/hydroxai/pii-models-674649fea0de7ab99ed11347
 # Place files in: pii-masker/output_model/deberta3base_1024/
 ```
 
