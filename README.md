@@ -110,7 +110,7 @@ We are excited to announce a significant addition to the PII Masker project: a n
 Check out our detailed examples:
 - [RAG Integration Example](RAG_with_pii_and_milvus.ipynb)
 
-  ## 🗓️ Future Updates
+## 🗓️ Future Updates
 
 We are committed to continuously enhancing PII Masker to meet evolving data privacy needs. Over the next two weeks, we plan to expand the scope of PII detection to include **text and video data**, ensuring comprehensive coverage for sensitive information across multiple media formats.
 
