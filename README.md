@@ -109,6 +109,22 @@ We are excited to announce a significant addition to the PII Masker project: a n
 
 Check out our detailed examples:
 - [RAG Integration Example](RAG_with_pii_and_milvus.ipynb)
+
+  ## 🗓️ Future Updates
+
+We are committed to continuously enhancing PII Masker to meet evolving data privacy needs. Over the next two weeks, we plan to expand the scope of PII detection to include **text and video data**, ensuring comprehensive coverage for sensitive information across multiple media formats.
+
+### Planned Features:
+- **Text Data**:
+  - Improved detection of PII in longer and more complex documents.
+  - Support for additional entity types, such as financial information and medical records.
+  
+- **Video Data**:
+  - Integration of OCR (Optical Character Recognition) for extracting text from video frames.
+  - Advanced video frame analysis to identify and mask PII directly in video content.
+
+These updates aim to make PII Masker more versatile, covering broader use cases while maintaining the precision and reliability our users trust. Stay tuned for more details in our upcoming releases!
+
   
 ## 🤝 Contributing
 
